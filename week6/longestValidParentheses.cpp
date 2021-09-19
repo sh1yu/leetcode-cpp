@@ -71,4 +71,6 @@ int main(int argc, const char *argv[]) {
     cout << s.longestValidParentheses("") << endl;
 
     cout << s.longestValidParentheses2("()(()") << endl;
+
+    return 0;
 }
